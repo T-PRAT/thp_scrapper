@@ -12,4 +12,4 @@ def crypto_scrapper(top)
 	res
 end
 
-puts crypto_scrapper(20)
+#puts crypto_scrapper(20)
